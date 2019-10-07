@@ -1,3 +1,4 @@
+//server file for the chat box
 var express = require("express");
 var app = express();
 var server = require("http").Server(app);
